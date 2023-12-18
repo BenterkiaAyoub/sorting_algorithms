@@ -2,7 +2,7 @@
 
 /**
  * swap_nodes - Swaps two nodes in a doubly linked list.
- * @head: A pointer to the head of the doubly linked list.
+ * @h: A pointer to the head of the doubly linked list.
  * @node1: A pointer to the first node to be swapped.
  * @node2: The second node to be swapped.
  */
